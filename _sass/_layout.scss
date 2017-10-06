@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Nosifer');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  font-family: "Nosifer", sans-serif;
+  font-size: 10vw;
+  line-height: 100vh;
+  text-align: center;
+}
+
+
+.scroll-troll,
+footer{
+  bottom: 0;
+  left: 0;
+  padding: 10px;
+  right: 0;
+}
+
+.scroll-troll{
+  font-family: "Comic Sans MS";
+  position: absolute;
+  text-align: center;
+}
+
+footer{
+  position: fixed;
+  text-align: right;
+}
